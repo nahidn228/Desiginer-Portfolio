@@ -1,0 +1,14 @@
+.preahvihear {
+  font-family: "Preahvihear", sans-serif;
+}
+
+.banner-img {
+  background-image: radial-gradient(
+    50% 50% at 50% 50%,
+    rgb(118, 60, 172),
+    rgba(50, 15, 133, 0) 100%
+  );
+  width: 30%;
+  margin: 0 auto;
+  border: 2px solid red;
+}
